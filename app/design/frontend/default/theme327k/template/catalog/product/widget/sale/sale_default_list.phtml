@@ -1,0 +1,6 @@
+<?php
+    $_productCollection=$this->getLoadedProductCollection();
+    $_helper = $this->helper('catalog/output');
+?>
+<?php if (($_products = $this->getProductCollection()) && $_products->getSize()): ?>
+<?php endif; ?>

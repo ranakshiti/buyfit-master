@@ -1,0 +1,8 @@
+media/*
+var/*
+downloader/cache.cfg
+downloader/connect.cfg
+downloader/.cache/community/Mage_All_Latest-1.9.2.1.tgz
+app/etc/local.xml
+.htaccess
+.DS_Store
